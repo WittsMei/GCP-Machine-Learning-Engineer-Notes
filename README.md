@@ -45,7 +45,7 @@ Course https://partner.cloudskillsboost.google/paths/84
 <img width="792" height="170" alt="Screenshot 2025-07-20 at 16 23 02" src="https://github.com/user-attachments/assets/acb1ec8d-ca32-4585-8af4-2990ec62e44c" />
 
 
-### In Practice: Temperature vs Top-P
+### Inference-Time Parameters: Temperature vs Top-P
 | Feature                  | **Temperature**                                   | **Top-p (Nucleus Sampling)**                                   |
 | ------------------------ | ------------------------------------------------- | -------------------------------------------------------------- |
 | **What it does**         | Controls how *random* the next token selection is | Filters the token pool to a top % of probability mass          |
