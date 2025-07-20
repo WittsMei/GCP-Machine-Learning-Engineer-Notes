@@ -8,7 +8,7 @@ Course https://partner.cloudskillsboost.google/paths/84
 
 ### Zero-shot prompting vs Few-Shot prompting outpot
 
-- Zero-shot prompting output
+##### Zero-shot prompting output
 <img width="708" height="275" alt="Screenshot 2025-07-20 at 15 13 54" src="https://github.com/user-attachments/assets/e353dc28-6f39-42ce-b990-4f35ffac3cbe" />
 
 
@@ -23,6 +23,6 @@ Course https://partner.cloudskillsboost.google/paths/84
 - Estimated Loss Amount: $5,000 - $10,000
 - Injuries Reported: No
 
-- Few-Shot prompting outpot
+##### Few-Shot prompting outpot
 <img width="700" height="287" alt="Screenshot 2025-07-20 at 15 08 58" src="https://github.com/user-attachments/assets/fedd03bb-82b2-4b5f-adfe-bc15143836e4" />
 
