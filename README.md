@@ -46,6 +46,17 @@ Course https://partner.cloudskillsboost.google/paths/84
 
 
 ### In Practice: Temperature vs Top-P
+| Feature                  | **Temperature**                                   | **Top-p (Nucleus Sampling)**                                   |
+| ------------------------ | ------------------------------------------------- | -------------------------------------------------------------- |
+| **What it does**         | Controls how *random* the next token selection is | Filters the token pool to a top % of probability mass          |
+| **Value Range**          | Typically `0.0` to `2.0`                          | Typically `0.0` to `1.0`                                       |
+| **How it works**         | Scales the logits before applying softmax         | Only considers the top tokens whose combined probabilities ≥ p |
+| **Effect of low value**  | More deterministic (e.g., `temperature=0.1`)      | Fewer tokens considered (e.g., `top_p=0.1`)                    |
+| **Effect of high value** | More random and diverse                           | Includes more tokens, more diversity                           |
+| **Common default**       | 0.7 or 1.0                                        | 0.9                                                            |
+| **Best for**             | Global randomness control                         | Local dynamic filtering based on probability                   |
+
+
 - Use **Temperature** to control "how creative" you want the generation to be.
 
 - Use **top-p** to restrict sampling to only the most likely, relevant choices.
