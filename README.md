@@ -29,3 +29,20 @@ Course https://partner.cloudskillsboost.google/paths/84
 - Few-Shot prompting outpot
 <img width="700" height="287" alt="Screenshot 2025-07-20 at 15 08 58" src="https://github.com/user-attachments/assets/fedd03bb-82b2-4b5f-adfe-bc15143836e4" />
 
+
+### Design effective prompts
+
+- Experimenting with prompt configurations (Temperature: 0.2)
+<img width="654" height="189" alt="temperature 0 2" src="https://github.com/user-attachments/assets/c2b6f521-1639-424c-b19e-6423659bd7d0" />
+
+- Experimenting with prompt configurations (Temperature: 1.9)
+<img width="655" height="195" alt="temperature 1 9" src="https://github.com/user-attachments/assets/486c2d08-77a7-4ac5-8289-7417b0682dc5" />
+
+- Experimenting with prompt configurations (Temperature: 1.5, Top-P: 0.12)
+<img width="799" height="178" alt="Screenshot 2025-07-20 at 16 22 15" src="https://github.com/user-attachments/assets/81f32f6e-2285-443a-ab92-44b26767dbd4" />
+
+- Experimenting with prompt configurations (Temperature: 1.5, Top-P: 1)
+<img width="792" height="170" alt="Screenshot 2025-07-20 at 16 23 02" src="https://github.com/user-attachments/assets/acb1ec8d-ca32-4585-8af4-2990ec62e44c" />
+
+
+
