@@ -32,10 +32,10 @@ Course https://partner.cloudskillsboost.google/paths/84
 
 ### Design effective prompts
 
-- Experimenting with prompt configurations (Temperature: 0.2)
+- Experimenting with prompt configurations (Temperature: 0.2, Top-P: 1)
 <img width="654" height="189" alt="temperature 0 2" src="https://github.com/user-attachments/assets/c2b6f521-1639-424c-b19e-6423659bd7d0" />
 
-- Experimenting with prompt configurations (Temperature: 1.9)
+- Experimenting with prompt configurations (Temperature: 1.9, Top-P: 1)
 <img width="655" height="195" alt="temperature 1 9" src="https://github.com/user-attachments/assets/486c2d08-77a7-4ac5-8289-7417b0682dc5" />
 
 - Experimenting with prompt configurations (Temperature: 1.5, Top-P: 0.12)
