@@ -45,4 +45,14 @@ Course https://partner.cloudskillsboost.google/paths/84
 <img width="792" height="170" alt="Screenshot 2025-07-20 at 16 23 02" src="https://github.com/user-attachments/assets/acb1ec8d-ca32-4585-8af4-2990ec62e44c" />
 
 
+### In Practice: Temperature vs Top-P
+- Use **Temperature** to control "how creative" you want the generation to be.
+
+- Use **top-p** to restrict sampling to only the most likely, relevant choices.
+
+- For reliable outputs, lower both.
+
+- For brainstorming or poetry, increase both.
+
+
 
