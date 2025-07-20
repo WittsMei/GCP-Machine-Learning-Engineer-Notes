@@ -9,7 +9,7 @@ Course https://partner.cloudskillsboost.google/paths/84
 ### Zero-shot prompting vs Few-Shot prompting outpot
 
 - Zero-shot prompting output
-<img width="860" height="684" alt="Screenshot 2025-07-20 at 14 59 14" src="https://github.com/user-attachments/assets/f9d6ebd0-787b-4437-a7bd-bd49bef6c384" />
+<img width="708" height="275" alt="Screenshot 2025-07-20 at 15 13 54" src="https://github.com/user-attachments/assets/e353dc28-6f39-42ce-b990-4f35ffac3cbe" />
 
 
 - Poviding a few examples (few-shot prompting) can significantly improve the model's performance, especially for specific formatting or nuanced extraction.
