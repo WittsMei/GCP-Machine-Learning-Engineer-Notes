@@ -65,5 +65,13 @@ Course https://partner.cloudskillsboost.google/paths/84
 
 - For brainstorming or poetry, increase both.
 
+#### Best Practice - You can combine both for more nuanced control:
+
+- For creative writing: temperature = 0.9, top_p = 0.95
+
+- For precise tasks: temperature = 0.2, top_p = 0.8
+
+- For deterministic output: temperature = 0.0 (top-p has no effect)
+
 
 
